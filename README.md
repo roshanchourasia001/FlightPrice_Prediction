@@ -6,6 +6,8 @@
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
+![Flight](static/css/img/aeroplane.jpeg)
+
 A Machine Learning web application built with **Flask** that predicts flight ticket prices based on various travel parameters.
 
 🌐 **Live Demo:** [Your Hosted Website URL Here]
@@ -66,6 +68,7 @@ FlightPrice_Prediction/
 - **Clean Codebase** — Well-structured with separation of concerns: data, model, and web app are clearly divided
 - **Deployable Anywhere** — Works on Render, Heroku, Railway, or any Python-supporting cloud platform out of the box
 
+![flight-price](static/css/img/fligh-price.jpg)
 ---
 
 - **Algorithm:** Random Forest Regressor
@@ -93,6 +96,8 @@ FlightPrice_Prediction/
 | Notebook    | Jupyter             |
 | Deployment  | Render / Heroku     |
 
+
+![model](static/css/img/model.jpeg)
 ---
 
 ## ⚙️ Installation & Setup
@@ -126,9 +131,9 @@ FlightPrice_Prediction/
 
 | Metric | Score |
 |--------|-------|
-| R² Score | — |
-| RMSE | — |
-| MAE | — |
+| R² Score | 0.80 |
+| RMSE  | 2019.46 |
+| MAE   |    1289 |
 
 ---
 
@@ -142,6 +147,7 @@ FlightPrice_Prediction/
 
 **Roshan Chourasia**
 - GitHub: [@roshanchourasia001](https://github.com/roshanchourasia001)
+- linkedin: [linkedin](https://linkedin.com/roshan-chourasia-122a8b252)
 
 ---
 
