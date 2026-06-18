@@ -127,7 +127,7 @@ FlightPrice_Prediction/
 
 ## 📊 Model Performance
 
-> *(Add your model accuracy, R² score, RMSE here after training)*
+
 
 | Metric | Score |
 |--------|-------|
@@ -139,7 +139,9 @@ FlightPrice_Prediction/
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your web app here)*
+![Screenshort ](static/css/img/ss01.png)
+![Screenshort](static/css/img/ss02.png)
+
 
 ---
 
