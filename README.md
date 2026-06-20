@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ![Flight](static/css/img/aeroplane.jpeg)
-
+ 
 A Machine Learning web application built with **Flask** that predicts flight ticket prices based on various travel parameters.
 
 🌐 **Live Demo:** 
