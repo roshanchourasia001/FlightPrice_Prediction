@@ -9,7 +9,7 @@
 ![Flight](static/css/img/aeroplane.jpeg)
   
 A Machine Learning web application built with **Flask** that predicts flight ticket prices based on various travel parameters.
-
+ 
 🌐 **Live Demo:** 
 
 <p align="center">
